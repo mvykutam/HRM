@@ -1,0 +1,4 @@
+url = http://apps.qaplanet.in/qahrm/login.php
+userName = qaplanet1
+PassWord = lab1
+browser = chrome
